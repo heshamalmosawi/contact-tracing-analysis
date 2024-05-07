@@ -13,7 +13,7 @@ This project involves parsing COVID-19 contact tracing data from a HTML file nam
 2. Install Jupyter notebook
 3. Run the script contacttracer.ipynb
 
-### Notes
+## Notes
 
 - Ensure that the HTML file is named (`contacttracing.htm`) and contains the necessary data for accurate extraction.
 - Changing the file or contents may or may not lead to inaccuracies, as the code was written specifically for the Ministry Of Health website HTML page.
